@@ -1,13 +1,7 @@
 # pandas-challenge
 
 
-PLEASE NOTE that my script can be found in the file entitled "Main.ipynb"
-
-
-
-
-
-
+## PLEASE NOTE that my script can be found in the file entitled "Main.ipynb"
 
 
 BACKGROUND: 
